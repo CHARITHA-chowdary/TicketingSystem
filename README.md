@@ -12,11 +12,9 @@ To install the required packages in local machine, execute the following command
 
 | **Variable**                                         | **Value**                                                 |
 |------------------------------------------------------|-----------------------------------------------------------|
-| APP_NAME                                             | Ticketingsystem                                            |
+| APP_NAME                                             | TicketingSystem                                            |
 | POSTGRES_URI                                         | Configured to the Postgres URI                            |
 | MONGO_URI                                            | Configured to the MongoDB URI                             |
 | MONGO_DB_NAME                                        | Configured to the MongoDB Name                            |
-| AWS_ACCESS_KEY_ID                                    |                                                           |
-| AWS_SECRET_ACCESS_KEY                                |                                                           |
-| AWS_S3_BUCKET_NAME                                   |                                                           |
-| AWS_REGION                                           |                                                           |
+| AZURE_CONNECTION_STRING                              | Configured to the Azure Connection String                                                          |
+| CONTAINER_NAME                                       | Configured to container name                                                       |

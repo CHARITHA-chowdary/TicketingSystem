@@ -1,0 +1,9 @@
+fastapi
+pydantic
+python-dotenv
+pymongo
+uvicorn
+python-multipart
+azure-storage-blob
+pytest
+httpx
