@@ -2,7 +2,6 @@ import base64
 import datetime
 import os
 
-import boto3
 from uuid import uuid4
 
 from starlette.responses import FileResponse, StreamingResponse
